@@ -19,9 +19,9 @@ const binarySearch = (arr, target) => {
 
 // test case
 
-const array = [3, 4, 7, 9, 12, 78];
-const searchTerm = 4;
+const arr = [3, 4, 7, 9, 12, 78];
+const target = 4;
 
-const result = binarySearch(array, searchTerm);
+const res = binarySearch(arr, target);
 
-console.log(result); // console log 1
+console.log(res); // console log 1
