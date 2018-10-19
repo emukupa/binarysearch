@@ -2,11 +2,14 @@
 
 In CS, binary search(half interval search, logarithmic search, binary chop) looks for a target in a **sorted** array.
 
-- Data structure is an array
-- Worst-case performance O(log n)
-- Best-case perfomance O(1)
-- Average performance O(log n)
-- Worst-case space complexity O(1)
+## Sorted array
+
+|     |         Description         |  Big O   |
+| :-: | :-------------------------: | :------: |
+|  1  |   Worst-case performance    | O(log n) |
+|  2  |    Best-case perfomance     |   O(1)   |
+|  3  |     Average performance     | O(log n) |
+|  4  | Worst-case space complexity |   O(1)   |
 
 ## Subroutine 1
 
@@ -125,7 +128,7 @@ function binary_search_right_most(A, n, T):
 
 ## Code Implementation in Computer Languanges
 
-1. Python
+1. [Python](/python)
 2. JavaScript
 3. TypeScript
 4. Dart
