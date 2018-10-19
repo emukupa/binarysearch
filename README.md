@@ -131,7 +131,7 @@ function binary_search_right_most(A, n, T):
 1. [Python](/python)
 2. [JavaScript](/javascript)
 3. [TypeScript](/typescript)
-4. Dart
+4. [Dart](/dart)
 5. PHP
 6. C++
 7. Java
