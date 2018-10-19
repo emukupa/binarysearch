@@ -129,7 +129,7 @@ function binary_search_right_most(A, n, T):
 ## Code Implementation in Computer Languanges
 
 1. [Python](/python)
-2. JavaScript
+2. [JavaScript](/javascript)
 3. TypeScript
 4. Dart
 5. PHP
